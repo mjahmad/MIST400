@@ -1,0 +1,2 @@
+# MIST400
+WVU's MIST400 GitHubRepo
